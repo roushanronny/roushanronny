@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Roushan Kumar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
-<img align=“right” alt=“coding” width=“400” src=“https://images.app.goo.gl/zeVJjHXmsNcJc7g68”>
-
+<h3 align="center">COMPUTER SCIENCE AND ENGINEERING at National Institute of technology,TIRUCHIRAPPALLI</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roushanronny&label=Profile%20views&color=0e75b6&style=flat" alt="roushanronny" /> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/roushan-kumar-7a4172257/**
+ I'm Software Engineer
+
+- 💬 Ask me about **C++ , DSA**
+
+- 📫 How to reach me **roushanronny2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/roushan-kumar-7a4172257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roushan-kumar-7a4172257/" height="30" width="40" /></a>
+<a href="https://instagram.com/roushanyadavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roushanyadavv" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/cs25_108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cs25_108" height="30" width="40" /></a>
+<a href="https://discord.gg/roushanyadavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="roushanyadavv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
