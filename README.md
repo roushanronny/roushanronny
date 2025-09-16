@@ -22,12 +22,6 @@ I have experience in **full-stack development (React, Node.js, .NET)**, cloud de
 - 📫 Reach me at **roushankumarydv2003@gmail.com**  
 - 🌍 Based in Hyderabad, India  
 
-
-### 📄 Resume
-[![Resume](https://img.shields.io/badge/View-Resume-blue)](https://github.com/roushanronny/roushanKumar.pdf)
-
----
-
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/roushan-kumar-7a4172257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
