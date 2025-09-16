@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Roushan Kumar</h1>
 <h3 align="center">Software Development Engineer | Full-Stack Developer </h3>
 
-<img align="right center" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
+<img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=roushanronny&label=Profile%20views&color=0e75b6&style=flat" alt="roushanronny" />
