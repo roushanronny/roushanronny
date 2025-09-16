@@ -1,12 +1,12 @@
 ![logo](https://github.com/roushanronny/roushanronny/blob/main/roushan%20kumar.png)
 <h1 align="center">Hi 👋, I'm Roushan Kumar</h1>
-<h3 align="center">COMPUTER SCIENCE AND ENGINEERING at National Institute of technology,TIRUCHIRAPPALLI</h3>
+<h3 align="center">SOFTWARE DEVELOPER ENGINEER at ACG WORLD </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roushanronny&label=Profile%20views&color=0e75b6&style=flat" alt="roushanronny" /> </p>
 
- I'm Software Engineer
+ I'm Software Developer Engineer
 
-- 💬 Ask me about **C++ , DSA**
+- 💬 Ask me about **C++ , DSA , OOPS, DBMS , ReactJS , NodeJS , .Net** 
 
 - 📫 How to reach me **roushanronny2003@gmail.com**
 
