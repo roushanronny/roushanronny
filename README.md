@@ -9,7 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=roushanronny&label=Profile%20views&color=0e75b6&style=flat" alt="roushanronny" />
 </p>
 
----
 
 ### 🚀 About Me
 I’m a **Software Developer Engineer at ACG World**, with a strong background in building scalable web applications, cloud-native solutions, and machine learning-driven projects.  
