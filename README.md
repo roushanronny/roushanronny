@@ -15,7 +15,7 @@ I’m a **Software Developer Engineer at ACG World**, with a strong background i
 I have experience in **full-stack development (React, Node.js, .NET)**, cloud deployments on **Azure & AWS**, and developing **quantitative models** during my time at WorldQuant.  
 
 
-
+---
 
 - 💻 Skilled in **C++, Python, JavaScript, .NET, Node.js, React, Azure**  
 
@@ -31,7 +31,7 @@ I have experience in **full-stack development (React, Node.js, .NET)**, cloud de
 <a href="https://www.hackerrank.com/cs25_108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
 </p>
 
----
+
 
 ### 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
