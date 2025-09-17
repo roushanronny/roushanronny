@@ -15,13 +15,15 @@ I’m a **Software Developer Engineer at ACG World**, with a strong background i
 I have experience in **full-stack development (React, Node.js, .NET)**, cloud deployments on **Azure & AWS**, and developing **quantitative models** during my time at WorldQuant.  
 
 
----
+
 
 - 💻 Skilled in **C++, Python, JavaScript, .NET, Node.js, React, Azure**  
 
 - 📫 Reach me at **roushankumarydv2003@gmail.com**  
 - 🌍 Based in Hyderabad, India  
 
+
+---
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/roushan-kumar-7a4172257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
